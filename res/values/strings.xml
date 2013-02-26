@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Bontakun Soundboard</string>
+    <string name="app_name">Bontakun</string>
+	<string name="angry">Angry</string>
+	<string name="confused">Confused</string>
+	<string name="huh">Huh</string>
+	<string name="iunderstand">Sympathetic I Understand</string>
+	<string name="veryangry">Very Angry</string>
+	<string name="ofcourse">Of Course!</string>
+	<string name="ofcourse2">Of Course 2</string>
+	<string name="fumo">fumo</string>
+	<string name="yeah">Yeah</string>
+	<string name="talking">Talking</string>
+	<string name="thinking">Thinking</string>
+	<string name="what">Confused What?</string>
+	<string name="squish">Squish</string>
+	<string name="marching">Marching</string>
+	<string name="yes">Polite Yes</string>
+	<string name="marchingresponse">Marching Response</string>
+    
+</resources>

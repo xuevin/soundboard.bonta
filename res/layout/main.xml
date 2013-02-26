@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/hello" />
+
+    <TableRow>
+
+        <Button
+            android:id="@+id/angry"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/angry" />
+
+        <Button
+            android:id="@+id/veryangry"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/veryangry" />
+    </TableRow>
+
+    <TableRow>
+
+        <Button
+            android:id="@+id/confused"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/confused" />
+
+        <Button
+            android:id="@+id/huh"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/huh" />
+
+        <Button
+            android:id="@+id/thinking"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/thinking" />
+    </TableRow>
+
+    <Button
+        android:id="@+id/what"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/what" />
+
+    <Button
+        android:id="@+id/iunderstand"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/iunderstand" />
+
+    <TableRow>
+
+        <Button
+            android:id="@+id/ofcourse"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/ofcourse" />
+
+        <Button
+            android:id="@+id/ofcourse2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/ofcourse2" />
+
+        <Button
+            android:id="@+id/yeah"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/yeah" />
+    </TableRow>
+
+    <Button
+        android:id="@+id/talking"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/talking" />
+
+    <TableRow>
+
+        <Button
+            android:id="@+id/yes"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/yes" />
+
+        <Button
+            android:id="@+id/fumo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/fumo" />
+    </TableRow>
+
+    <TableRow>
+
+        <Button
+            android:id="@+id/marching"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/marching" />
+
+        <Button
+            android:id="@+id/marchingresponse"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/marchingresponse" />
+    </TableRow>
+
+    <Button
+        android:id="@+id/squish"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/squish" />
+
+</TableLayout>
